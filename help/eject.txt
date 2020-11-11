@@ -1,0 +1,9 @@
+Usage: fastify eject [opts] <file> [--] [<plugin-options>]
+
+OPTS
+
+???
+
+Examples:
+
+???
